@@ -17,7 +17,9 @@ an array of comments for the given article_id of which each comment should have 
 - author
 - body
 - article_id
-  Comments should be served with the most recent comments first.
+  
+
+Comments should be served with the most recent comments first.
 
 Consider what errors could occur with this endpoint, and make sure to test for them.
 
