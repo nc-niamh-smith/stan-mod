@@ -23,6 +23,4 @@ Consider what errors could occur with this endpoint, and make sure to test for t
 
 Remember to add a description of this endpoint to your /api endpoint.
 
-# FOR NIAMH - PR - https://github.com/cls-c/nc-news/pull/9/files
-
-Missing a test for 200 - over engineered their tests by using a reduce :O
+# ORIGINAL PR - https://github.com/cls-c/nc-news/pull/9/files
